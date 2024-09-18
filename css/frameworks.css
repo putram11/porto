@@ -1,0 +1,14 @@
+.framework-wrap {
+    margin-bottom: 20px;
+}
+
+.framework-line {
+    height: 8px;
+    border-radius: 4px;
+    background-color: #ddd; /* Light grey as default background */
+    position: relative;
+    margin-top: 5px;
+}
+
+.color-1 { background-color: #e5ff00; } /* Blue */
+
